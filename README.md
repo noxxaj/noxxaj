@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm jaxxon</h1>
 <h3 align="center">A junior web developer from the Netherlands</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noxxaj&label=Profile%20views&color=0e75b6&style=flat" alt="noxxaj" /> </p>
-
 - 🔭 My latest project: [BEAM](https://www.beam-app.me/)
 
 - 🌱 I’m currently working on **my own portfolio site**
