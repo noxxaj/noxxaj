@@ -6,7 +6,7 @@
 
 - 🔭 My latest project: [BEAM](https://www.beam-app.me/)
 
-- 🌱 I’m currently working on **my own portfolio site**
+- 🌱 I'm currently working on **my own portfolio site**
 
 - 📨 Contact me: jaxxonalta@gmail.com or on [LinkedIn](https://linkedin.com/in/jaxxon-alta)
 
