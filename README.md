@@ -4,7 +4,7 @@
 
 - 🚌 I'm a [Le Wagon](https://www.lewagon.com/) alumni
 
-- 🔭 My latest project: [BEAM](https://www.beam-app.me/)
+- 🔭 My latest project: [BEAM](https://github.com/federicadivincenzo/beam-app)
 
 - 🌱 I'm currently working on **my own portfolio site**
 
