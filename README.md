@@ -6,8 +6,6 @@
 
 - 🔭 My latest project: [BEAM](https://github.com/federicadivincenzo/beam-app)
 
-- 🌱 I'm currently working on **my own portfolio site**
-
 - 📨 Contact me: jaxxonalta@gmail.com or on [LinkedIn](https://linkedin.com/in/jaxxon-alta)
 
 <br>
