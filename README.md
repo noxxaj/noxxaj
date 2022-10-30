@@ -6,7 +6,7 @@
 
 - 🔭 My latest project: [BEAM](https://github.com/federicadivincenzo/beam-app)
 
-- 📨 Contact me: jaxxonalta@gmail.com or on [LinkedIn](https://linkedin.com/in/jaxxon-alta)
+- 📨 Contact me: hello@jaxxon.dev or on [LinkedIn](https://linkedin.com/in/jaxxon-alta)
 
 <br>
 <h3 align="left">Languages and tools I have worked with:</h3>
