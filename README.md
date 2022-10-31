@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jaxxon</h1>
-<h3 align="center">A junior web developer from the Netherlands</h3>
+<h3 align="center">A junior developer from the Netherlands</h3>
 <br>
 
 - 🚌 I'm a [Le Wagon](https://www.lewagon.com/) alumni
@@ -8,7 +8,7 @@
 
 - 📨 Contact me: hello@jaxxon.dev or on [LinkedIn](https://linkedin.com/in/jaxxon-alta)
 
-<br>
+<!-- <br>
 <h3 align="left">Languages and tools I have worked with:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
 <a href="https://getbootstrap.com" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
@@ -26,4 +26,4 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a></p>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a></p> -->
