@@ -2,7 +2,7 @@
 <h3 align="center">A junior developer from the Netherlands</h3>
 <br>
 
-- 🚌 I'm a [Le Wagon](https://www.lewagon.com/) alumni
+- 🚌 I'm a [Le Wagon](https://www.lewagon.com/) alumni & teaching assistant
 
 - 🔭 My latest project: [BEAM](https://github.com/federicadivincenzo/beam-app)
 
