@@ -6,7 +6,7 @@
 
 - 🔭 My latest project: [BEAM](https://github.com/federicadivincenzo/beam-app)
 
-- 👨‍💻 I'm currently working on [my portfolio site](https://jaxxon.dev)
+- 👨‍💻 I'm currently working on [my portfolio site](https://github.com/noxxaj/jaxxon.dev)
 
 - 📨 Contact me: hello@jaxxon.dev or on [LinkedIn](https://linkedin.com/in/jaxxon-alta)
 
